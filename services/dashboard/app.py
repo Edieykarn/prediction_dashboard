@@ -14,8 +14,8 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="collapsed",
     menu_items={
-        'Get Help': 'https://github.com/yourusername/yourrepo',
-        'Report a bug': "https://github.com/yourusername/yourrepo/issues",
+        'Get Help': 'https://github.com/Edikansam/prediction_dashboard',
+        'Report a bug': "https://github.com/Edikansam/prediction_dashboard/issues",
         'About': "# Bias Detection Dashboard\nThis application detects potential bias in facial recognition systems."
     }
 )
